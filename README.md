@@ -87,4 +87,3 @@ Hack Capsule provides a **centralized platform** where teams can:
 
 ---
 
-## 🧩 System Architecture
